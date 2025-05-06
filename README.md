@@ -1,1 +1,3 @@
 # studmate
+
+author- rohit gavali
